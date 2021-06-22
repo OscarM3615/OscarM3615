@@ -37,11 +37,11 @@
   <img
     height="180em"
     alt="OscarM3615's stats"
-    src="https://github-readme-stats.vercel.app/api?username=OscarM3615&theme=vue&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=OscarM3615&theme=vue-dark&show_icons=true"
   />
   <img
     height="180em"
     alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarM3615&theme=vue&layout=compact&hide=html"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarM3615&theme=vue-dark&layout=compact&hide=html"
   />
 </a>
